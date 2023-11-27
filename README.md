@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hannahf248
+- 👀 I’m interested in travel, yoga and good food
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’ve recently become mummy to a baby boy and I'm enjoying learning to code during my maternity leave
+- 📫 How to reach me...  https://www.linkedin.com/in/hannah-f-57798096/
